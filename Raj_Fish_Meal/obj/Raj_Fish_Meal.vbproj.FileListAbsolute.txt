@@ -1,0 +1,1529 @@
+Y:\Project\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+Y:\Project\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+Y:\Project\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+Y:\Project\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+Y:\Project\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+Y:\Project\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+Y:\Project\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+Y:\Project\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+Y:\Project\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+Y:\Project\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+Y:\Project\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmain_menu.resources
+Y:\Project\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Form3.resources
+Y:\Project\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+Y:\Project\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+Y:\Project\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+Y:\Project\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+Y:\Project\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+Y:\Project\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+Y:\Project\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+Y:\Project\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+Y:\Project\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+Y:\Project\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+Y:\Project\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+Y:\Project\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+E:\BCA\3rd Year\6th Sem\VB.Net\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+E:\BCA\3rd Year\6th Sem\VB.Net\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+E:\BCA\3rd Year\6th Sem\VB.Net\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+E:\BCA\3rd Year\6th Sem\VB.Net\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+E:\BCA\3rd Year\6th Sem\VB.Net\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+E:\BCA\3rd Year\6th Sem\VB.Net\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+E:\BCA\3rd Year\6th Sem\VB.Net\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+E:\BCA\3rd Year\6th Sem\VB.Net\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+E:\BCA\3rd Year\6th Sem\VB.Net\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+E:\BCA\3rd Year\6th Sem\VB.Net\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+E:\BCA\3rd Year\6th Sem\VB.Net\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+E:\BCA\3rd Year\6th Sem\VB.Net\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+E:\BCA\3rd Year\6th Sem\VB.Net\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+Y:\Coding1\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+Y:\Coding1\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+Y:\Coding1\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+Y:\Coding1\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+Y:\Coding1\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+Y:\Coding1\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+Y:\Coding1\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+Y:\Coding1\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+Y:\Coding1\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+Y:\Coding1\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+Y:\Coding1\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+Y:\Coding1\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+Y:\Coding1\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+H:\Coding1\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+H:\Coding1\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+H:\Coding1\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+E:\BCA\3rd Year\6th Sem\VB.Net\Coding1\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+E:\BCA\3rd Year\6th Sem\VB.Net\Coding1\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+E:\BCA\3rd Year\6th Sem\VB.Net\Coding1\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+E:\BCA\3rd Year\6th Sem\VB.Net\Coding1\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+E:\BCA\3rd Year\6th Sem\VB.Net\Coding1\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+E:\BCA\3rd Year\6th Sem\VB.Net\Coding1\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+E:\BCA\3rd Year\6th Sem\VB.Net\Coding1\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+E:\BCA\3rd Year\6th Sem\VB.Net\Coding1\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+E:\BCA\3rd Year\6th Sem\VB.Net\Coding1\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+E:\BCA\3rd Year\6th Sem\VB.Net\Coding1\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+E:\BCA\3rd Year\6th Sem\VB.Net\Coding1\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+E:\BCA\3rd Year\6th Sem\VB.Net\Coding1\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+E:\BCA\3rd Year\6th Sem\VB.Net\Coding1\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+E:\BCA\3rd Year\6th Sem\VB.Net\Coding1\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmaddemployee.resources
+E:\BCA\3rd Year\6th Sem\VB.Net\Coding1\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmcreatenewuser.resources
+Y:\Coding1\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmaddemployee.resources
+Y:\Coding1\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmcreatenewuser.resources
+Y:\Coding2\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+Y:\Coding2\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+Y:\Coding2\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+Y:\Coding2\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+Y:\Coding2\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+Y:\Coding2\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+Y:\Coding2\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+Y:\Coding2\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmaddemployee.resources
+Y:\Coding2\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmcreatenewuser.resources
+Y:\Coding2\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+Y:\Coding2\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+Y:\Coding2\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+Y:\Coding2\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+Y:\Coding2\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+Y:\Coding2\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmaddemployee.resources
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addnewsupplier.resources
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editsupplier.resources
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeemployee.resources
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchinventory.resources
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createnewuser.resources
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factoryconsumption.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addinventory.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addnewsupplier.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmaddemployee.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deleteinventory.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editsupplier.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createnewuser.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factoryconsumption.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeemployee.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchinventory.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.attendance.resources
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.cancelpurchaseorder.resources
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createpurchaseorder.resources
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.employeedetails.resources
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasebill.resources
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchaseorderdetails.resources
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salary.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.attendance.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.cancelpurchaseorder.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createpurchaseorder.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.employeedetails.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasebill.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchaseorderdetails.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salary.resources
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchsupplier.resources
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletesupplier.resources
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeuser.resources
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.unlockuser.resources
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editemployee.resources
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addcustomer.resources
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletecustomer.resources
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorder.resources
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.updatecustomer.resources
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewcustomer.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addcustomer.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletecustomer.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletesupplier.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editemployee.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeuser.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorder.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchsupplier.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.unlockuser.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.updatecustomer.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewcustomer.resources
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addcustomer.resources
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addinventory.resources
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addnewsupplier.resources
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmaddemployee.resources
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.attendance.resources
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.cancelpurchaseorder.resources
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createpurchaseorder.resources
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletecustomer.resources
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deleteinventory.resources
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletesupplier.resources
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editemployee.resources
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editsupplier.resources
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createnewuser.resources
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.employeedetails.resources
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factoryconsumption.resources
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasebill.resources
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchaseorderdetails.resources
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeemployee.resources
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeuser.resources
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salary.resources
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorder.resources
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchinventory.resources
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchsupplier.resources
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.unlockuser.resources
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.updatecustomer.resources
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewcustomer.resources
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+E:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addstock.resources
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesbill.resources
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesdetails.resources
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewstock.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addstock.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesbill.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesdetails.resources
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewstock.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addcustomer.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addinventory.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addnewsupplier.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addstock.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmaddemployee.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.attendance.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.cancelpurchaseorder.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createpurchaseorder.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletecustomer.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deleteinventory.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletesupplier.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editemployee.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editsupplier.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createnewuser.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.employeedetails.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factoryconsumption.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasebill.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchaseorderdetails.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeemployee.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeuser.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salary.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesbill.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesdetails.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorder.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchinventory.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchsupplier.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.unlockuser.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.updatecustomer.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewcustomer.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewstock.resources
+Y:\New Folder\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addcustomer.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addinventory.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addnewsupplier.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addstock.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmaddemployee.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.attendance.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.cancelpurchaseorder.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createpurchaseorder.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletecustomer.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deleteinventory.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletesupplier.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editemployee.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createnewuser.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editsupplier.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.employeedetails.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factoryconsumption.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasebill.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchaseorderdetails.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeemployee.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeuser.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salary.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesbill.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesdetails.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorder.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchinventory.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchsupplier.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.unlockuser.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.updatecustomer.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewcustomer.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewstock.resources
+Y:\New Folder12425\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addcustomer.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addnewsupplier.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addstock.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmaddemployee.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.attendance.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.cancelpurchaseorder.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createpurchaseorder.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletecustomer.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletesupplier.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editemployee.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createnewuser.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editsupplier.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.employeedetails.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factoryconsumption.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasebill.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchaseorderdetails.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeemployee.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeuser.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salary.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesbill.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesdetails.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorder.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchinventory.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchsupplier.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.unlockuser.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.updatecustomer.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewcustomer.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewstock.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addcustomer.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addnewsupplier.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addstock.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmaddemployee.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.attendance.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.cancelpurchaseorder.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createpurchaseorder.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletecustomer.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletesupplier.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editemployee.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createnewuser.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editsupplier.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.employeedetails.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factoryconsumption.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasebill.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchaseorderdetails.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeemployee.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeuser.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salary.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesbill.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesdetails.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorder.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchinventory.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchsupplier.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.unlockuser.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.updatecustomer.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewcustomer.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewstock.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addcustomer.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addinventory.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addnewsupplier.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addstock.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmaddemployee.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.attendance.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.cancelpurchaseorder.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createpurchaseorder.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletecustomer.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deleteinventory.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletesupplier.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editemployee.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createnewuser.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editsupplier.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.employeedetails.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factoryconsumption.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasebill.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchaseorderdetails.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeemployee.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeuser.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salary.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesbill.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesdetails.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorder.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchinventory.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchsupplier.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.unlockuser.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.updatecustomer.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewcustomer.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewstock.resources
+Y:\28 jan\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addcustomer.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addinventory.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addnewsupplier.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addstock.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmaddemployee.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.attendance.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.cancelpurchaseorder.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createpurchaseorder.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletecustomer.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deleteinventory.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletesupplier.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editemployee.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createnewuser.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editsupplier.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.employeedetails.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factoryconsumption.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasebill.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchaseorderdetails.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeemployee.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeuser.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salary.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesbill.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesdetails.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorder.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchinventory.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchsupplier.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.unlockuser.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.updatecustomer.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewcustomer.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewstock.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addcustomer.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addinventory.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addnewsupplier.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addstock.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmaddemployee.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.attendance.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.cancelpurchaseorder.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createpurchaseorder.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletecustomer.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deleteinventory.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletesupplier.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editemployee.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createnewuser.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editsupplier.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.employeedetails.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factoryconsumption.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasebill.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchaseorderdetails.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeemployee.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeuser.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salary.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesbill.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesdetails.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorder.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchinventory.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchsupplier.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.unlockuser.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.updatecustomer.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewcustomer.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewstock.resources
+Y:\sandesh 29 jan 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+H:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.selpic.resources
+Y:\jyryuyuyu\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+Y:\jyryuyuyu\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+Y:\jyryuyuyu\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.selpic.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addcustomer.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addinventory.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addnewsupplier.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addstock.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmaddemployee.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.attendance.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.cancelpurchaseorder.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createpurchaseorder.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletecustomer.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deleteinventory.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletesupplier.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editemployee.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createnewuser.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editsupplier.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.employeedetails.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factoryconsumption.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasebill.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchaseorderdetails.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeemployee.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeuser.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salary.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesbill.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesdetails.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorder.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchinventory.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchsupplier.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.selpic.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.unlockuser.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.updatecustomer.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewcustomer.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewstock.resources
+H:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addcustomer.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addinventory.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addnewsupplier.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addstock.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmaddemployee.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.attendance.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.cancelpurchaseorder.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createpurchaseorder.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletecustomer.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deleteinventory.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletesupplier.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editemployee.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createnewuser.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editsupplier.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.employeedetails.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factoryconsumption.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasebill.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchaseorderdetails.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeemployee.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeuser.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salary.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesbill.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesdetails.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorder.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchinventory.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchsupplier.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.selpic.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.unlockuser.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.updatecustomer.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewcustomer.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewstock.resources
+G:\30 jan till afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addcustomer.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addnewsupplier.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addstock.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmaddemployee.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.attendance.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.cancelpurchaseorder.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createpurchaseorder.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletecustomer.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletesupplier.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editemployee.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createnewuser.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editsupplier.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.employeedetails.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factoryconsumption.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasebill.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchaseorderdetails.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeemployee.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeuser.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salary.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesbill.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesdetails.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorder.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchinventory.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchsupplier.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.selpic.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.unlockuser.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.updatecustomer.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewcustomer.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewstock.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.selpic.resources
+G:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Form1.resources
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasereturn.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasereturn.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasereturn.resources
+I:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.selpic.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addcustomer.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addnewsupplier.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addstock.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmaddemployee.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.attendance.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.cancelpurchaseorder.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createpurchaseorder.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletecustomer.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletesupplier.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editemployee.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createnewuser.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editsupplier.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.employeedetails.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factoryconsumption.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasebill.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchaseorderdetails.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasereturn.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeemployee.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeuser.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salary.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesbill.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesdetails.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorder.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchinventory.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchsupplier.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.selpic.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.unlockuser.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.updatecustomer.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewcustomer.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewstock.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+Y:\sandy\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+Y:\sandy\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+Y:\sandy\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+Y:\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesreturn.resources
+D:\san\coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesreturn.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addcustomer.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addnewsupplier.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addstock.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmaddemployee.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.attendance.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.cancelpurchaseorder.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createpurchaseorder.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletecustomer.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletesupplier.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editemployee.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createnewuser.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editsupplier.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.employeedetails.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factoryconsumption.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasebill.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchaseorderdetails.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasereturn.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeemployee.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeuser.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salary.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesbill.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesdetails.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorder.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesreturn.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchinventory.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchsupplier.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.selpic.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.unlockuser.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.updatecustomer.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewcustomer.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewstock.resources
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+Y:\sandesh\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.settings.resources
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.settings.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasereturn.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesreturn.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.selpic.resources
+F:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.settings.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addcustomer.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addnewsupplier.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addstock.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmaddemployee.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.attendance.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createpurchaseorder.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editemployee.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createnewuser.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editsupplier.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.employeedetails.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factoryconsumption.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasereturn.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeemployee.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salary.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesbill.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesdetails.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorder.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchinventory.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchsupplier.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.selpic.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.settings.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.unlockuser.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.updatecustomer.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewcustomer.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewstock.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addcustomer.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addnewsupplier.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addstock.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmaddemployee.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.attendance.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.cancelpurchaseorder.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createpurchaseorder.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletecustomer.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletesupplier.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editemployee.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createnewuser.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editsupplier.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.employeedetails.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factoryconsumption.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasebill.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchaseorderdetails.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasereturn.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeemployee.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeuser.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salary.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesbill.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesdetails.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorder.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesreturn.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchinventory.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchsupplier.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.selpic.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.settings.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.unlockuser.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.updatecustomer.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewcustomer.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewstock.resources
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+G:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe.config
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addcustomer.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addnewsupplier.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addstock.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmaddemployee.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.attendance.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.cancelpurchaseorder.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createpurchaseorder.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletecustomer.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletesupplier.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editemployee.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createnewuser.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editsupplier.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.employeedetails.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factoryconsumption.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasebill.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchaseorderdetails.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasereturn.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeemployee.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeuser.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salary.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesbill.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesdetails.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorder.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesreturn.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchinventory.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchsupplier.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.selpic.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.settings.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.unlockuser.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.updatecustomer.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewcustomer.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewstock.resources
+Y:\Coding t\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesreturn.resources
+\\192.168.1.3\bgroup22\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.settings.resources
+Y:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.category.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addcustomer.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addnewsupplier.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addstock.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmaddemployee.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.attendance.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.cancelpurchaseorder.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.category.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createpurchaseorder.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletecustomer.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletesupplier.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editemployee.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createnewuser.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editsupplier.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.employeedetails.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factoryconsumption.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasebill.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchaseorderdetails.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasereturn.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeemployee.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeuser.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salary.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesbill.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesdetails.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorder.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesreturn.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchinventory.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchsupplier.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.selpic.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.settings.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.unlockuser.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.updatecustomer.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewcustomer.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewstock.resources
+H:\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addcustomer.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addnewsupplier.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addstock.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmaddemployee.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.attendance.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.cancelpurchaseorder.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.category.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createpurchaseorder.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletecustomer.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletesupplier.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editemployee.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createnewuser.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editsupplier.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.employeedetails.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factoryconsumption.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasebill.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchaseorderdetails.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasereturn.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeemployee.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeuser.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salary.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesbill.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesdetails.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorder.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesreturn.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchinventory.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchsupplier.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.selpic.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.settings.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.unlockuser.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.updatecustomer.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewcustomer.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewstock.resources
+D:\BCA\coding till 19th feb afternoon\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addcustomer.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addnewsupplier.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addstock.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmaddemployee.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.attendance.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.cancelpurchaseorder.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.category.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createpurchaseorder.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletecustomer.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletesupplier.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editemployee.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createnewuser.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editsupplier.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.employeedetails.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factoryconsumption.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasebill.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchaseorderdetails.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasereturn.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeemployee.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeuser.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salary.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesbill.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesdetails.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorder.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesreturn.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchinventory.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchsupplier.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.selpic.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.settings.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.unlockuser.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.updatecustomer.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewcustomer.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewstock.resources
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+D:\BCA\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addcustomer.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addnewsupplier.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addstock.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmaddemployee.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.attendance.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.category.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createpurchaseorder.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletecustomer.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletesupplier.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editemployee.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createnewuser.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editsupplier.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.employeedetails.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factoryconsumption.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasereturn.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeemployee.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeuser.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salary.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesbill.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesdetails.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorder.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesreturn.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchinventory.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchsupplier.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.selpic.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.settings.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.unlockuser.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.updatecustomer.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewcustomer.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewstock.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addcustomer.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addnewsupplier.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addstock.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmaddemployee.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.attendance.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.category.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createpurchaseorder.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editemployee.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createnewuser.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editsupplier.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.employeedetails.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factoryconsumption.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchaseinvoice.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasereturn.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeemployee.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salary.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesbill.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesdetails.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorder.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorderedit.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchinventory.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchsupplier.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.selpic.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.settings.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.unlockuser.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.updatecustomer.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewcustomer.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewstock.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchaseinvoice.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorderedit.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addcustomer.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addnewsupplier.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addstock.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmaddemployee.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.attendance.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.category.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createpurchaseorder.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletecustomer.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletesupplier.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editemployee.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createnewuser.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editsupplier.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.employeedetails.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factoryconsumption.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchaseinvoice.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasereturn.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeemployee.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeuser.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salary.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesbill.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesdetails.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorder.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorderedit.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesreturn.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchinventory.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchsupplier.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.selpic.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.settings.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.unlockuser.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.updatecustomer.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewcustomer.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewstock.resources
+G:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addcustomer.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addnewsupplier.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addstock.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmaddemployee.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.attendance.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.category.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createpurchaseorder.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletecustomer.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletesupplier.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editemployee.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createnewuser.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editsupplier.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.employeedetails.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factoryconsumption.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchaseinvoice.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasereturn.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeemployee.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeuser.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salary.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesbill.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesdetails.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorder.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorderedit.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesreturn.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchinventory.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchsupplier.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.selpic.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.settings.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.unlockuser.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.updatecustomer.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewcustomer.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewstock.resources
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+F:\New Folder\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.PInvoice.rpt
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.PInvoice.rpt
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.PInvoice.rpt
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addcustomer.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addnewsupplier.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addstock.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmaddemployee.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.attendance.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.category.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createpurchaseorder.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletecustomer.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletesupplier.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editemployee.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createnewuser.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editsupplier.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.employeedetails.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factoryconsumption.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchaseinvoice.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasereturn.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeemployee.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeuser.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salary.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesbill.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesdetails.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorder.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorderedit.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesreturn.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchinventory.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchsupplier.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.selpic.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.settings.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.unlockuser.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.updatecustomer.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewcustomer.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewstock.resources
+K:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.PInvoice.rpt
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addcustomer.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addnewsupplier.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addstock.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmaddemployee.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.attendance.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.category.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createpurchaseorder.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletecustomer.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.deletesupplier.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editemployee.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createnewuser.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editsupplier.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.employeedetails.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factoryconsumption.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchaseinvoice.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasereturn.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeemployee.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeuser.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salary.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesbill.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesdetails.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorder.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorderedit.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesreturn.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchinventory.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchsupplier.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.selpic.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.settings.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.unlockuser.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.updatecustomer.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewcustomer.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewstock.resources
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.PInvoice.rpt
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.PIReport.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.PIReport.resources
+Y:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe.config
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe.config
+G:\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.PIReport.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe.config
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factconsp.rpt
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factreport.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factconsumrpt.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlockscreen.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Payslip.rpt
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Epayslip.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.dailyreport.rpt
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmdailyreport.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchase.rpt
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmpurchasereport.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.SalesInvoice.rpt
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmsalesinvoice.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmstock.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.stockreportday.rpt
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.stockreportmonth.rpt
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesrpt.rpt
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmsalesreport.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.emprpt.rpt
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmemprpt.resources
+D:\BCA\Project backup\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmempviewprof.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe.config
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.emprpt.rpt
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesrpt.rpt
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.stockreportmonth.rpt
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factconsp.rpt
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Payslip.rpt
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.PInvoice.rpt
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.SalesInvoice.rpt
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.dailyreport.rpt
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchase.rpt
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.stockreportday.rpt
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addcustomer.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addnewsupplier.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addstock.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmaddemployee.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.attendance.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.category.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmemprpt.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmempviewprof.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmsalesreport.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createpurchaseorder.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editemployee.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createnewuser.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editsupplier.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.employeedetails.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Epayslip.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factconsumrpt.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factoryconsumption.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factreport.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmstock.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmdailyreport.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlockscreen.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmpurchasereport.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmsalesinvoice.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.PIReport.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchaseinvoice.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasereturn.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeemployee.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salary.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesbill.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesdetails.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorder.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorderedit.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchinventory.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchsupplier.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.selpic.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.settings.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.unlockuser.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.updatecustomer.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewcustomer.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewstock.resources
+C:\Users\Punith Dell\Desktop\coding\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe.config
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.emprpt.rpt
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesrpt.rpt
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.stockreportmonth.rpt
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factconsp.rpt
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Payslip.rpt
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.PInvoice.rpt
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.SalesInvoice.rpt
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.dailyreport.rpt
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchase.rpt
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.stockreportday.rpt
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.category.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmemprpt.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmempviewprof.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmsalesreport.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Epayslip.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factconsumrpt.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factreport.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmstock.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmdailyreport.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlockscreen.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmpurchasereport.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmsalesinvoice.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.PIReport.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchaseinvoice.resources
+D:\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorderedit.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe.config
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.emprpt.rpt
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesrpt.rpt
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.stockreportmonth.rpt
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factconsp.rpt
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Payslip.rpt
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.PInvoice.rpt
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.SalesInvoice.rpt
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.dailyreport.rpt
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchase.rpt
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.stockreportday.rpt
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addcustomer.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addnewsupplier.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addstock.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmaddemployee.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.attendance.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.category.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmemprpt.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmempviewprof.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmsalesreport.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createpurchaseorder.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editemployee.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createnewuser.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editsupplier.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.employeedetails.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Epayslip.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factconsumrpt.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factoryconsumption.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factreport.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmstock.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmdailyreport.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlockscreen.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmpurchasereport.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmsalesinvoice.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.PIReport.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchaseinvoice.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasereturn.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeemployee.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salary.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesbill.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesdetails.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorder.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorderedit.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchinventory.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchsupplier.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.selpic.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.settings.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.unlockuser.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.updatecustomer.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewcustomer.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewstock.resources
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+D:\Punith\Documents\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe.config
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.exe
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.xml
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.pdb
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.exe
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.pdb
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\bin\Debug\Raj_Fish_Meal.xml
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\ResolveAssemblyReference.cache
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.emprpt.rpt
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesrpt.rpt
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.stockreportmonth.rpt
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factconsp.rpt
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Payslip.rpt
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.PInvoice.rpt
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.SalesInvoice.rpt
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.dailyreport.rpt
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchase.rpt
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.stockreportday.rpt
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addcustomer.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addnewsupplier.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.addstock.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmaddemployee.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.attendance.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.category.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmemprpt.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmempviewprof.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmsalesreport.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createpurchaseorder.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editemployee.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.createnewuser.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.editsupplier.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.employeedetails.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Epayslip.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factconsumrpt.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factoryconsumption.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.factreport.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmstock.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmdailyreport.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlockscreen.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmpurchasereport.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmsalesinvoice.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.login_pic.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmmdihome.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.frmlogin.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.home.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.Resources.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.PIReport.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchaseinvoice.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.purchasereturn.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.removeemployee.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salary.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesbill.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesdetails.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorder.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.salesorderedit.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchinventory.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.searchsupplier.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.selpic.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.settings.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.unlockuser.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.updatecustomer.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewcustomer.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.viewstock.resources
+D:\Punith\BCA\6th semester BCA\Raj Fish Meal BCA Project 2014\Coding\Raj_Fish_Meal\Raj_Fish_Meal\obj\Debug\Raj_Fish_Meal.vbproj.GenerateResource.Cache
