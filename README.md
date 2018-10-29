@@ -7,8 +7,10 @@ This software gives a detailed visualization and managing of employee details, v
 
 #Front End: Microsoft VB.Net 2005
 
-#Standalone system software
+#Standalone System Software
 
 #Enhanced UI
 
 #Security
+
+#Dated: 04-04-2014
