@@ -3,6 +3,8 @@ Project was to automate system of Raj Fish Meal & Oil. Co. Udupi. By automating 
 
 This software gives a detailed visualization and managing of employee details, various inventory levels, purchase and sales details, supplier information and weigh bridge calculation details. It provides accurate results in form of reports such as purchase report, daily reports, factory consumption report, stock report, sales report and update stock momentarily on the occurrence of each transaction. Also this software provides security from unauthorized accessing of data using proper authentication technique.
 
+- Please find project documentation under "Documentation" folder
+
 #Bachelor of Computer Application | Undergraduation | Final Year - Internship - 6 Months Project [Nov 2013 - Apr 2014]
 
 #Back End: Microsoft SQL Server 2005
