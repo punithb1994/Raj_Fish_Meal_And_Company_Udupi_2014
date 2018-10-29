@@ -5,6 +5,8 @@ This software gives a detailed visualization and managing of employee details, v
 
 - Please find project documentation under "Documentation" folder
 
+- Please find project database under "Database" folder
+
 #Bachelor of Computer Application | Undergraduation | Final Year - Internship - 6 Months Project [Nov 2013 - Apr 2014]
 
 #Back End: Microsoft SQL Server 2005
